@@ -1,0 +1,11 @@
+.border-glow-card{position:relative;isolation:isolate;min-width:0;border-radius:var(--border-radius);background:var(--card-bg);border:1px solid #ffffff20;--edge-proximity:0;--cursor-angle:0deg}
+.border-glow-card::before,.edge-light{position:absolute;inset:-1px;border-radius:inherit;pointer-events:none;padding:2px;background:conic-gradient(from var(--cursor-angle),transparent 0deg,var(--glow-color) 18deg,#c084fc 40deg,transparent 85deg);mask:linear-gradient(#fff 0 0) content-box,linear-gradient(#fff 0 0);mask-composite:exclude;opacity:clamp(0,calc((var(--edge-proximity) - var(--edge-sensitivity))/50),1);transition:opacity .25s}
+.border-glow-card::before{content:'';filter:drop-shadow(0 0 12px var(--glow-color-50))}.edge-light{z-index:3}
+.border-glow-inner{position:relative;border-radius:inherit;padding:16px;background:linear-gradient(#120f17ee,#120f17ee),var(--gradient-one),var(--gradient-two),var(--gradient-three),var(--gradient-base)}
+.border-glow-card:focus-within{box-shadow:0 0 0 1px #c084fc,0 0 22px #c084fc30}
+.work-glow{align-self:start}.work-glow:first-child,.work-glow:has(.archive),.work-glow:has(.detail-pages),.work-glow:has(details[open]){grid-column:1/-1}
+.work-glow .series-covers{border-radius:16px}.work-glow .series-caption{padding-left:8px;padding-right:8px}.work-glow .series-detail{padding:0 8px}.work-glow:not(:first-child) .work-series:first-child .series-covers{height:450px;padding:24px;gap:10px;background:#151915}.work-glow .work-series[open] .series-covers{height:460px}
+.video-glow{margin-bottom:30px}.video-glow .ai-video-work{margin-bottom:0}.video-glow video{border-radius:16px}
+@media(max-width:680px){.border-glow-inner{padding:10px}.work-glow:not(:first-child) .work-series:first-child .series-covers,.work-glow .work-series[open] .series-covers{height:320px;padding:12px;gap:5px}}
+@media(prefers-reduced-motion:reduce){.edge-light,.border-glow-card::before{transition:none}}
+.border-glow-card::before,.border-glow-card .edge-light{display:none}.border-glow-card:focus-within{box-shadow:none}.border-glow-inner{background:var(--card-bg)}

@@ -1,0 +1,1538 @@
+[
+  {
+    "id": "manye",
+    "title": "慢野 SLOWILD · 品牌全案",
+    "category": "品牌策略 / 视觉识别 / IP 与空间",
+    "description": "围绕城市与自然之间的松弛感，构建慢野 SLOWILD 的品牌表达。从品牌背景、市场调研与用户画像出发，延展至标志、色彩、字体、包装、IP 形象及店铺空间，呈现完整的品牌视觉体系。",
+    "layout": "landscape",
+    "unit": "页方案",
+    "pdf": "/works/manye/manye-brand.pdf",
+    "images": [
+      {
+        "name": "第 1 页 · 品牌场景",
+        "src": "/works/manye/01-display.webp",
+        "thumb": "/works/manye/01-thumb.webp",
+        "original": "/works/manye/01.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 2 页 · 品牌背景",
+        "src": "/works/manye/02-display.webp",
+        "thumb": "/works/manye/02-thumb.webp",
+        "original": "/works/manye/02.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 3 页 · 市场调研",
+        "src": "/works/manye/03-display.webp",
+        "thumb": "/works/manye/03-thumb.webp",
+        "original": "/works/manye/03.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 4 页 · 用户画像",
+        "src": "/works/manye/04-display.webp",
+        "thumb": "/works/manye/04-thumb.webp",
+        "original": "/works/manye/04.jpg",
+        "width": 1422,
+        "height": 1600
+      },
+      {
+        "name": "第 5 页 · 品牌关键词",
+        "src": "/works/manye/05-display.webp",
+        "thumb": "/works/manye/05-thumb.webp",
+        "original": "/works/manye/05.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 6 页 · 品牌主张",
+        "src": "/works/manye/06-display.webp",
+        "thumb": "/works/manye/06-thumb.webp",
+        "original": "/works/manye/06.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 7 页 · 标志设计",
+        "src": "/works/manye/07-display.webp",
+        "thumb": "/works/manye/07-thumb.webp",
+        "original": "/works/manye/07.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 8 页 · 标志网格",
+        "src": "/works/manye/08-display.webp",
+        "thumb": "/works/manye/08-thumb.webp",
+        "original": "/works/manye/08.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 9 页 · 标志组合",
+        "src": "/works/manye/09-display.webp",
+        "thumb": "/works/manye/09-thumb.webp",
+        "original": "/works/manye/09.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 10 页 · 品牌色彩",
+        "src": "/works/manye/10-display.webp",
+        "thumb": "/works/manye/10-thumb.webp",
+        "original": "/works/manye/10.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 11 页 · 品牌标准字",
+        "src": "/works/manye/11-display.webp",
+        "thumb": "/works/manye/11-thumb.webp",
+        "original": "/works/manye/11.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 12 页 · 包装设计",
+        "src": "/works/manye/12-display.webp",
+        "thumb": "/works/manye/12-thumb.webp",
+        "original": "/works/manye/12.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 13 页 · 包装细节",
+        "src": "/works/manye/13-display.webp",
+        "thumb": "/works/manye/13-thumb.webp",
+        "original": "/works/manye/13.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 14 页 · 包装延展",
+        "src": "/works/manye/14-display.webp",
+        "thumb": "/works/manye/14-thumb.webp",
+        "original": "/works/manye/14.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 15 页 · 品牌应用",
+        "src": "/works/manye/15-display.webp",
+        "thumb": "/works/manye/15-thumb.webp",
+        "original": "/works/manye/15.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 16 页 · 品牌应用",
+        "src": "/works/manye/16-display.webp",
+        "thumb": "/works/manye/16-thumb.webp",
+        "original": "/works/manye/16.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 17 页 · 品牌 IP",
+        "src": "/works/manye/17-display.webp",
+        "thumb": "/works/manye/17-thumb.webp",
+        "original": "/works/manye/17.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 18 页 · IP 三视图",
+        "src": "/works/manye/18-display.webp",
+        "thumb": "/works/manye/18-thumb.webp",
+        "original": "/works/manye/18.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 19 页 · IP 延展",
+        "src": "/works/manye/19-display.webp",
+        "thumb": "/works/manye/19-thumb.webp",
+        "original": "/works/manye/19.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 20 页 · 品牌小挂件",
+        "src": "/works/manye/20-display.webp",
+        "thumb": "/works/manye/20-thumb.webp",
+        "original": "/works/manye/20.jpg",
+        "width": 1600,
+        "height": 1072
+      },
+      {
+        "name": "第 21 页 · 骑行场景",
+        "src": "/works/manye/21-display.webp",
+        "thumb": "/works/manye/21-thumb.webp",
+        "original": "/works/manye/21.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 22 页 · 山野场景",
+        "src": "/works/manye/22-display.webp",
+        "thumb": "/works/manye/22-thumb.webp",
+        "original": "/works/manye/22.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 23 页 · 露营场景",
+        "src": "/works/manye/23-display.webp",
+        "thumb": "/works/manye/23-thumb.webp",
+        "original": "/works/manye/23.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 24 页 · 露营场景",
+        "src": "/works/manye/24-display.webp",
+        "thumb": "/works/manye/24-thumb.webp",
+        "original": "/works/manye/24.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 25 页 · 店铺外观",
+        "src": "/works/manye/25-display.webp",
+        "thumb": "/works/manye/25-thumb.webp",
+        "original": "/works/manye/25.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 26 页 · 店铺陈列",
+        "src": "/works/manye/26-display.webp",
+        "thumb": "/works/manye/26-thumb.webp",
+        "original": "/works/manye/26.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 27 页 · 店铺空间",
+        "src": "/works/manye/27-display.webp",
+        "thumb": "/works/manye/27-thumb.webp",
+        "original": "/works/manye/27.jpg",
+        "width": 1600,
+        "height": 900
+      }
+    ],
+    "covers": [
+      {
+        "name": "第 1 页 · 品牌场景",
+        "src": "/works/manye/01-display.webp",
+        "thumb": "/works/manye/01-thumb.webp",
+        "original": "/works/manye/01.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 8 页 · 标志网格",
+        "src": "/works/manye/08-display.webp",
+        "thumb": "/works/manye/08-thumb.webp",
+        "original": "/works/manye/08.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      {
+        "name": "第 17 页 · 品牌 IP",
+        "src": "/works/manye/17-display.webp",
+        "thumb": "/works/manye/17-thumb.webp",
+        "original": "/works/manye/17.jpg",
+        "width": 1600,
+        "height": 900
+      }
+    ]
+  },
+  {
+    "id": "dairialli-world",
+    "title": "DAIRIALLI · 蓝色微观世界",
+    "category": "产品场景 / 创意视觉",
+    "description": "以蓝色地貌、柔软材质与微型角色构成产品场景，将包装主体融入具有亲和力的视觉世界。",
+    "images": [
+      {
+        "name": "1c9ae7aacc18f7544584805261a746db9a84e1b179a5d6928d8c7f6b483404ca.png",
+        "src": "/works/dairialli-world/01-display.webp",
+        "thumb": "/works/dairialli-world/01-thumb.webp",
+        "original": "/works/dairialli-world/01.png",
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "name": "6727a0d917d499c0ab14efddf284377043c399a20aea4abe8ab1033f18e4844d.png",
+        "src": "/works/dairialli-world/02-display.webp",
+        "thumb": "/works/dairialli-world/02-thumb.webp",
+        "original": "/works/dairialli-world/02.png",
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "name": "830711f581a1d9de06c3c74467fd5ff9db2ce5fe882c83ca8c5c5583d6586bdc.png",
+        "src": "/works/dairialli-world/03-display.webp",
+        "thumb": "/works/dairialli-world/03-thumb.webp",
+        "original": "/works/dairialli-world/03.png",
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "name": "e0ba41912455d571f10c675e654c859bd1066a5892889a206c601c6eaa40b683.jpg",
+        "src": "/works/dairialli-world/04-display.webp",
+        "thumb": "/works/dairialli-world/04-thumb.webp",
+        "original": "/works/dairialli-world/04.jpg",
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "name": "P.jpg",
+        "src": "/works/dairialli-world/05-display.webp",
+        "thumb": "/works/dairialli-world/05-thumb.webp",
+        "original": "/works/dairialli-world/05.jpg",
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "name": "合.jpg",
+        "src": "/works/dairialli-world/06-display.webp",
+        "thumb": "/works/dairialli-world/06-thumb.webp",
+        "original": "/works/dairialli-world/06.jpg",
+        "width": 1792,
+        "height": 2400
+      }
+    ],
+    "covers": [
+      {
+        "name": "1c9ae7aacc18f7544584805261a746db9a84e1b179a5d6928d8c7f6b483404ca.png",
+        "src": "/works/dairialli-world/01-display.webp",
+        "thumb": "/works/dairialli-world/01-thumb.webp",
+        "original": "/works/dairialli-world/01.png",
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "name": "P.jpg",
+        "src": "/works/dairialli-world/05-display.webp",
+        "thumb": "/works/dairialli-world/05-thumb.webp",
+        "original": "/works/dairialli-world/05.jpg",
+        "width": 1792,
+        "height": 2400
+      },
+      {
+        "name": "合.jpg",
+        "src": "/works/dairialli-world/06-display.webp",
+        "thumb": "/works/dairialli-world/06-thumb.webp",
+        "original": "/works/dairialli-world/06.jpg",
+        "width": 1792,
+        "height": 2400
+      }
+    ]
+  },
+  {
+    "id": "beauever-mask",
+    "title": "BeauEver · 前夜面膜",
+    "category": "产品视觉 / 系列海报",
+    "description": "围绕银色膜布与产品质感展开，运用结构拆解、人物场景与信息层级，组织完整的系列表达。",
+    "images": [
+      {
+        "name": "前夜面膜卖点0608体感.jpg",
+        "src": "/works/beauever-mask/01-display.webp",
+        "thumb": "/works/beauever-mask/01-thumb.webp",
+        "original": "/works/beauever-mask/01.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "前夜面膜卖点0608技术.jpg",
+        "src": "/works/beauever-mask/02-display.webp",
+        "thumb": "/works/beauever-mask/02-thumb.webp",
+        "original": "/works/beauever-mask/02.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "前夜面膜卖点0608结构 拷贝 3.jpg",
+        "src": "/works/beauever-mask/03-display.webp",
+        "thumb": "/works/beauever-mask/03-thumb.webp",
+        "original": "/works/beauever-mask/03.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "前夜面膜卖点0608膜布.jpg",
+        "src": "/works/beauever-mask/04-display.webp",
+        "thumb": "/works/beauever-mask/04-thumb.webp",
+        "original": "/works/beauever-mask/04.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "前夜面膜卖点0608载料.jpg",
+        "src": "/works/beauever-mask/05-display.webp",
+        "thumb": "/works/beauever-mask/05-thumb.webp",
+        "original": "/works/beauever-mask/05.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "前夜面膜卖点0608配方.jpg",
+        "src": "/works/beauever-mask/06-display.webp",
+        "thumb": "/works/beauever-mask/06-thumb.webp",
+        "original": "/works/beauever-mask/06.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ],
+    "covers": [
+      {
+        "name": "前夜面膜卖点0608结构 拷贝 3.jpg",
+        "src": "/works/beauever-mask/03-display.webp",
+        "thumb": "/works/beauever-mask/03-thumb.webp",
+        "original": "/works/beauever-mask/03.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "前夜面膜卖点0608技术.jpg",
+        "src": "/works/beauever-mask/02-display.webp",
+        "thumb": "/works/beauever-mask/02-thumb.webp",
+        "original": "/works/beauever-mask/02.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "前夜面膜卖点0608配方.jpg",
+        "src": "/works/beauever-mask/06-display.webp",
+        "thumb": "/works/beauever-mask/06-thumb.webp",
+        "original": "/works/beauever-mask/06.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ]
+  },
+  {
+    "id": "beauever-sun",
+    "title": "BeauEver · 与阳光同行",
+    "category": "创意海报 / 场景传播",
+    "description": "将水果的状态对比与旅行场景融入防晒传播，结合手写标题、拼贴构图和产品展示形成不同语境下的创意表达。",
+    "images": [
+      {
+        "name": "BE防晒竞品-1.jpg",
+        "src": "/works/beauever-sun/01-display.webp",
+        "thumb": "/works/beauever-sun/01-thumb.webp",
+        "original": "/works/beauever-sun/01.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "五一出游海报-2登项神圣雪山.jpg",
+        "src": "/works/beauever-sun/02-display.webp",
+        "thumb": "/works/beauever-sun/02-thumb.webp",
+        "original": "/works/beauever-sun/02.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "五一出游海报-2草原cos牧羊人 拷贝 2.jpg",
+        "src": "/works/beauever-sun/03-display.webp",
+        "thumb": "/works/beauever-sun/03-thumb.webp",
+        "original": "/works/beauever-sun/03.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "name": "五一出游海报-2草原cos牧羊人 拷贝.jpg",
+        "src": "/works/beauever-sun/04-display.webp",
+        "thumb": "/works/beauever-sun/04-thumb.webp",
+        "original": "/works/beauever-sun/04.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "name": "五一出游海报-2草原cos牧羊人.jpg",
+        "src": "/works/beauever-sun/05-display.webp",
+        "thumb": "/works/beauever-sun/05-thumb.webp",
+        "original": "/works/beauever-sun/05.jpg",
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "name": "五一出游海报出海乘浪前行 拷贝.jpg",
+        "src": "/works/beauever-sun/06-display.webp",
+        "thumb": "/works/beauever-sun/06-thumb.webp",
+        "original": "/works/beauever-sun/06.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "五一出游海报出海乘浪前行.jpg",
+        "src": "/works/beauever-sun/07-display.webp",
+        "thumb": "/works/beauever-sun/07-thumb.webp",
+        "original": "/works/beauever-sun/07.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "五一出游海报草原cos牧羊人.jpg",
+        "src": "/works/beauever-sun/08-display.webp",
+        "thumb": "/works/beauever-sun/08-thumb.webp",
+        "original": "/works/beauever-sun/08.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "创意种草海报橙子.jpg",
+        "src": "/works/beauever-sun/09-display.webp",
+        "thumb": "/works/beauever-sun/09-thumb.webp",
+        "original": "/works/beauever-sun/09.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "创意种草海报苹果.jpg",
+        "src": "/works/beauever-sun/10-display.webp",
+        "thumb": "/works/beauever-sun/10-thumb.webp",
+        "original": "/works/beauever-sun/10.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "创意种草海报香蕉.jpg",
+        "src": "/works/beauever-sun/11-display.webp",
+        "thumb": "/works/beauever-sun/11-thumb.webp",
+        "original": "/works/beauever-sun/11.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ],
+    "covers": [
+      {
+        "name": "创意种草海报橙子.jpg",
+        "src": "/works/beauever-sun/09-display.webp",
+        "thumb": "/works/beauever-sun/09-thumb.webp",
+        "original": "/works/beauever-sun/09.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "创意种草海报苹果.jpg",
+        "src": "/works/beauever-sun/10-display.webp",
+        "thumb": "/works/beauever-sun/10-thumb.webp",
+        "original": "/works/beauever-sun/10.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "创意种草海报香蕉.jpg",
+        "src": "/works/beauever-sun/11-display.webp",
+        "thumb": "/works/beauever-sun/11-thumb.webp",
+        "original": "/works/beauever-sun/11.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ]
+  },
+  {
+    "id": "beauever-pure",
+    "title": "BeauEver · 纯净护肤",
+    "category": "成分视觉 / 信息编排",
+    "description": "以植物影像、微观材质与疏密有致的排版，串联精华及面霜的成分主题，保持系列视觉的一致性。",
+    "images": [
+      {
+        "name": "成分画板 1 拷贝 10.jpg",
+        "src": "/works/beauever-pure/01-display.webp",
+        "thumb": "/works/beauever-pure/01-thumb.webp",
+        "original": "/works/beauever-pure/01.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "成分画板 1 拷贝 3.jpg",
+        "src": "/works/beauever-pure/02-display.webp",
+        "thumb": "/works/beauever-pure/02-thumb.webp",
+        "original": "/works/beauever-pure/02.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "成分画板 1 拷贝 4.jpg",
+        "src": "/works/beauever-pure/03-display.webp",
+        "thumb": "/works/beauever-pure/03-thumb.webp",
+        "original": "/works/beauever-pure/03.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "成分画板 1 拷贝 5.jpg",
+        "src": "/works/beauever-pure/04-display.webp",
+        "thumb": "/works/beauever-pure/04-thumb.webp",
+        "original": "/works/beauever-pure/04.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "成分画板 1 拷贝 7.jpg",
+        "src": "/works/beauever-pure/05-display.webp",
+        "thumb": "/works/beauever-pure/05-thumb.webp",
+        "original": "/works/beauever-pure/05.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "成分画板 1 拷贝 9.jpg",
+        "src": "/works/beauever-pure/06-display.webp",
+        "thumb": "/works/beauever-pure/06-thumb.webp",
+        "original": "/works/beauever-pure/06.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "成分画板 1 拷贝.jpg",
+        "src": "/works/beauever-pure/07-display.webp",
+        "thumb": "/works/beauever-pure/07-thumb.webp",
+        "original": "/works/beauever-pure/07.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "成分画板 1.jpg",
+        "src": "/works/beauever-pure/08-display.webp",
+        "thumb": "/works/beauever-pure/08-thumb.webp",
+        "original": "/works/beauever-pure/08.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ],
+    "covers": [
+      {
+        "name": "成分画板 1 拷贝 5.jpg",
+        "src": "/works/beauever-pure/04-display.webp",
+        "thumb": "/works/beauever-pure/04-thumb.webp",
+        "original": "/works/beauever-pure/04.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "成分画板 1 拷贝 3.jpg",
+        "src": "/works/beauever-pure/02-display.webp",
+        "thumb": "/works/beauever-pure/02-thumb.webp",
+        "original": "/works/beauever-pure/02.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "成分画板 1 拷贝 10.jpg",
+        "src": "/works/beauever-pure/01-display.webp",
+        "thumb": "/works/beauever-pure/01-thumb.webp",
+        "original": "/works/beauever-pure/01.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ]
+  },
+  {
+    "id": "dairialli-info",
+    "title": "DAIRIALLI · 产品信息体系",
+    "category": "信息可视化 / 产品传播",
+    "description": "通过拟人角色、结构分解和图表编排，将配方、活性与研究主题组织为统一的蓝色视觉系列。",
+    "images": [
+      {
+        "name": "临床研究免疫力.jpg",
+        "src": "/works/dairialli-info/01-display.webp",
+        "thumb": "/works/dairialli-info/01-thumb.webp",
+        "original": "/works/dairialli-info/01.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "临床研究呼吸道.jpg",
+        "src": "/works/dairialli-info/02-display.webp",
+        "thumb": "/works/dairialli-info/02-thumb.webp",
+        "original": "/works/dairialli-info/02.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "临床研究抗炎因子.jpg",
+        "src": "/works/dairialli-info/03-display.webp",
+        "thumb": "/works/dairialli-info/03-thumb.webp",
+        "original": "/works/dairialli-info/03.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "临床研究湿疹风险.jpg",
+        "src": "/works/dairialli-info/04-display.webp",
+        "thumb": "/works/dairialli-info/04-thumb.webp",
+        "original": "/works/dairialli-info/04.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "临床研究皮炎.jpg",
+        "src": "/works/dairialli-info/05-display.webp",
+        "thumb": "/works/dairialli-info/05-thumb.webp",
+        "original": "/works/dairialli-info/05.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "活性画板 1 拷贝 2.jpg",
+        "src": "/works/dairialli-info/06-display.webp",
+        "thumb": "/works/dairialli-info/06-thumb.webp",
+        "original": "/works/dairialli-info/06.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "活性画板 1 拷贝 3.jpg",
+        "src": "/works/dairialli-info/07-display.webp",
+        "thumb": "/works/dairialli-info/07-thumb.webp",
+        "original": "/works/dairialli-info/07.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "活性画板 1 拷贝 5.jpg",
+        "src": "/works/dairialli-info/08-display.webp",
+        "thumb": "/works/dairialli-info/08-thumb.webp",
+        "original": "/works/dairialli-info/08.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "活性画板 1 拷贝.jpg",
+        "src": "/works/dairialli-info/09-display.webp",
+        "thumb": "/works/dairialli-info/09-thumb.webp",
+        "original": "/works/dairialli-info/09.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "活性画板 1.jpg",
+        "src": "/works/dairialli-info/10-display.webp",
+        "thumb": "/works/dairialli-info/10-thumb.webp",
+        "original": "/works/dairialli-info/10.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-同步字体颜色版卖点 拷贝 2.jpg",
+        "src": "/works/dairialli-info/11-display.webp",
+        "thumb": "/works/dairialli-info/11-thumb.webp",
+        "original": "/works/dairialli-info/11.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版4大专利菌.jpg",
+        "src": "/works/dairialli-info/12-display.webp",
+        "thumb": "/works/dairialli-info/12-thumb.webp",
+        "original": "/works/dairialli-info/12.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版4大益生元.jpg",
+        "src": "/works/dairialli-info/13-display.webp",
+        "thumb": "/works/dairialli-info/13-thumb.webp",
+        "original": "/works/dairialli-info/13.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版5184大专利菌.jpg",
+        "src": "/works/dairialli-info/14-display.webp",
+        "thumb": "/works/dairialli-info/14-thumb.webp",
+        "original": "/works/dairialli-info/14.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版518CFU .jpg",
+        "src": "/works/dairialli-info/15-display.webp",
+        "thumb": "/works/dairialli-info/15-thumb.webp",
+        "original": "/works/dairialli-info/15.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版518分区.jpg",
+        "src": "/works/dairialli-info/16-display.webp",
+        "thumb": "/works/dairialli-info/16-thumb.webp",
+        "original": "/works/dairialli-info/16.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版518科研.jpg",
+        "src": "/works/dairialli-info/17-display.webp",
+        "thumb": "/works/dairialli-info/17-thumb.webp",
+        "original": "/works/dairialli-info/17.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ],
+    "covers": [
+      {
+        "name": "活性画板 1.jpg",
+        "src": "/works/dairialli-info/10-display.webp",
+        "thumb": "/works/dairialli-info/10-thumb.webp",
+        "original": "/works/dairialli-info/10.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版518分区.jpg",
+        "src": "/works/dairialli-info/16-display.webp",
+        "thumb": "/works/dairialli-info/16-thumb.webp",
+        "original": "/works/dairialli-info/16.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版518CFU .jpg",
+        "src": "/works/dairialli-info/15-display.webp",
+        "thumb": "/works/dairialli-info/15-thumb.webp",
+        "original": "/works/dairialli-info/15.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ]
+  },
+  {
+    "id": "brand-content",
+    "title": "品牌内容 · 人物与知识",
+    "category": "视频封面 / 内容设计",
+    "description": "以人物、产品和标题的关系建立阅读焦点，运用档案、纸张与拼贴元素，延展品牌内容的视觉表达。",
+    "images": [
+      {
+        "name": "FQA答疑22.jpg",
+        "src": "/works/brand-content/01-display.webp",
+        "thumb": "/works/brand-content/01-thumb.webp",
+        "original": "/works/brand-content/01.jpg",
+        "width": 1125,
+        "height": 4272
+      },
+      {
+        "name": "UD赋活精华视频封面画板 2.jpg",
+        "src": "/works/brand-content/02-display.webp",
+        "thumb": "/works/brand-content/02-thumb.webp",
+        "original": "/works/brand-content/02.jpg",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "name": "助推器使用tips.jpg",
+        "src": "/works/brand-content/03-display.webp",
+        "thumb": "/works/brand-content/03-thumb.webp",
+        "original": "/works/brand-content/03.jpg",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "name": "胶原弹视频封面画板 1 拷贝 2.jpg",
+        "src": "/works/brand-content/04-display.webp",
+        "thumb": "/works/brand-content/04-thumb.webp",
+        "original": "/works/brand-content/04.jpg",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "name": "防晒Judith茱蒂丝视频封面9-16比例.jpg",
+        "src": "/works/brand-content/05-display.webp",
+        "thumb": "/works/brand-content/05-thumb.webp",
+        "original": "/works/brand-content/05.jpg",
+        "width": 900,
+        "height": 1600
+      }
+    ],
+    "covers": [
+      {
+        "name": "UD赋活精华视频封面画板 2.jpg",
+        "src": "/works/brand-content/02-display.webp",
+        "thumb": "/works/brand-content/02-thumb.webp",
+        "original": "/works/brand-content/02.jpg",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "name": "胶原弹视频封面画板 1 拷贝 2.jpg",
+        "src": "/works/brand-content/04-display.webp",
+        "thumb": "/works/brand-content/04-thumb.webp",
+        "original": "/works/brand-content/04.jpg",
+        "width": 900,
+        "height": 1600
+      },
+      {
+        "name": "助推器使用tips.jpg",
+        "src": "/works/brand-content/03-display.webp",
+        "thumb": "/works/brand-content/03-thumb.webp",
+        "original": "/works/brand-content/03.jpg",
+        "width": 900,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": "steam-eye",
+    "title": "心意的我 · 蒸汽眼罩",
+    "category": "产品海报 / 长图设计",
+    "description": "使用柔和的黄色与清晰的信息模块，组织产品介绍、检测资料与使用场景相关的传播内容。",
+    "images": [
+      {
+        "name": "心意的我-卖点海报 - 2卖点1.jpg",
+        "src": "/works/steam-eye/01-display.webp",
+        "thumb": "/works/steam-eye/01-thumb.webp",
+        "original": "/works/steam-eye/01.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "蒸气眼罩一分钟种草-0324-1.jpg",
+        "src": "/works/steam-eye/02-display.webp",
+        "thumb": "/works/steam-eye/02-thumb.webp",
+        "original": "/works/steam-eye/02.jpg",
+        "width": 1125,
+        "height": 2513
+      },
+      {
+        "name": "蒸汽眼罩检测海报A类标准.jpg",
+        "src": "/works/steam-eye/03-display.webp",
+        "thumb": "/works/steam-eye/03-thumb.webp",
+        "original": "/works/steam-eye/03.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ],
+    "covers": [
+      {
+        "name": "蒸汽眼罩检测海报A类标准.jpg",
+        "src": "/works/steam-eye/03-display.webp",
+        "thumb": "/works/steam-eye/03-thumb.webp",
+        "original": "/works/steam-eye/03.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "心意的我-卖点海报 - 2卖点1.jpg",
+        "src": "/works/steam-eye/01-display.webp",
+        "thumb": "/works/steam-eye/01-thumb.webp",
+        "original": "/works/steam-eye/01.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "蒸气眼罩一分钟种草-0324-1.jpg",
+        "src": "/works/steam-eye/02-display.webp",
+        "thumb": "/works/steam-eye/02-thumb.webp",
+        "original": "/works/steam-eye/02.jpg",
+        "width": 1125,
+        "height": 2513
+      }
+    ]
+  },
+  {
+    "id": "product-rendering",
+    "title": "产品建模渲染",
+    "category": "产品展示 / 材质灯光 / 场景渲染",
+    "description": "围绕护肤产品、礼盒、数码与宠物用品，通过材质、灯光和场景呈现产品形态与细节。",
+    "layout": "archive",
+    "images": [
+      {
+        "name": "产品建模渲染.jpg",
+        "src": "/works/commerce-archive/06-display.webp",
+        "thumb": "/works/commerce-archive/06-thumb.webp",
+        "original": "/works/commerce-archive/06.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "name": "产品建模渲染巨礼盒.jpg",
+        "src": "/works/commerce-archive/07-display.webp",
+        "thumb": "/works/commerce-archive/07-thumb.webp",
+        "original": "/works/commerce-archive/07.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "name": "产品建模渲染巨乳.jpg",
+        "src": "/works/commerce-archive/08-display.webp",
+        "thumb": "/works/commerce-archive/08-thumb.webp",
+        "original": "/works/commerce-archive/08.jpg",
+        "width": 790,
+        "height": 1400
+      },
+      {
+        "name": "微信图片_20250218152316.jpg",
+        "src": "/works/commerce-archive/16-display.webp",
+        "thumb": "/works/commerce-archive/16-thumb.webp",
+        "original": "/works/commerce-archive/16.jpg",
+        "width": 1200,
+        "height": 1800
+      },
+      {
+        "name": "微信图片_20250218152331.jpg",
+        "src": "/works/commerce-archive/17-display.webp",
+        "thumb": "/works/commerce-archive/17-thumb.webp",
+        "original": "/works/commerce-archive/17.jpg",
+        "width": 1200,
+        "height": 1822
+      }
+    ],
+    "covers": [
+      {
+        "name": "产品建模渲染.jpg",
+        "src": "/works/commerce-archive/06-display.webp",
+        "thumb": "/works/commerce-archive/06-thumb.webp",
+        "original": "/works/commerce-archive/06.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "name": "产品建模渲染巨礼盒.jpg",
+        "src": "/works/commerce-archive/07-display.webp",
+        "thumb": "/works/commerce-archive/07-thumb.webp",
+        "original": "/works/commerce-archive/07.jpg",
+        "width": 1200,
+        "height": 1200
+      },
+      {
+        "name": "微信图片_20250218152331.jpg",
+        "src": "/works/commerce-archive/17-display.webp",
+        "thumb": "/works/commerce-archive/17-thumb.webp",
+        "original": "/works/commerce-archive/17.jpg",
+        "width": 1200,
+        "height": 1822
+      }
+    ]
+  },
+  {
+    "id": "kv-rendering",
+    "title": "KV 渲染",
+    "category": "节日主视觉 / 营销场景",
+    "description": "以年货节、新年礼赠与圣诞为主题，将产品融入节日场景，呈现活动主视觉。",
+    "layout": "archive",
+    "images": [
+      {
+        "name": "21_Main_0000.jpg",
+        "src": "/works/commerce-archive/01-display.webp",
+        "thumb": "/works/commerce-archive/01-thumb.webp",
+        "original": "/works/commerce-archive/01.jpg",
+        "width": 1200,
+        "height": 1900
+      },
+      {
+        "name": "01200085.jpg",
+        "src": "/works/commerce-archive/02-display.webp",
+        "thumb": "/works/commerce-archive/02-thumb.webp",
+        "original": "/works/commerce-archive/02.jpg",
+        "width": 1200,
+        "height": 1900
+      },
+      {
+        "name": "图层-7.jpg",
+        "src": "/works/commerce-archive/14-display.webp",
+        "thumb": "/works/commerce-archive/14-thumb.webp",
+        "original": "/works/commerce-archive/14.jpg",
+        "width": 1200,
+        "height": 1920
+      },
+      {
+        "name": "图层-8.jpg",
+        "src": "/works/commerce-archive/15-display.webp",
+        "thumb": "/works/commerce-archive/15-thumb.webp",
+        "original": "/works/commerce-archive/15.jpg",
+        "width": 1200,
+        "height": 1920
+      }
+    ],
+    "covers": [
+      {
+        "name": "21_Main_0000.jpg",
+        "src": "/works/commerce-archive/01-display.webp",
+        "thumb": "/works/commerce-archive/01-thumb.webp",
+        "original": "/works/commerce-archive/01.jpg",
+        "width": 1200,
+        "height": 1900
+      },
+      {
+        "name": "图层-7.jpg",
+        "src": "/works/commerce-archive/14-display.webp",
+        "thumb": "/works/commerce-archive/14-thumb.webp",
+        "original": "/works/commerce-archive/14.jpg",
+        "width": 1200,
+        "height": 1920
+      },
+      {
+        "name": "图层-8.jpg",
+        "src": "/works/commerce-archive/15-display.webp",
+        "thumb": "/works/commerce-archive/15-thumb.webp",
+        "original": "/works/commerce-archive/15.jpg",
+        "width": 1200,
+        "height": 1920
+      }
+    ]
+  },
+  {
+    "id": "brand-information",
+    "title": "品牌内容设计",
+    "category": "品牌故事 / 购物指南",
+    "description": "通过品牌故事与购物指南，传递品牌理念并清晰呈现服务信息。",
+    "layout": "archive brand-information",
+    "images": [
+      {
+        "name": "品牌故事及认证_01.jpg",
+        "src": "/works/commerce-archive/13-display.webp",
+        "thumb": "/works/commerce-archive/13-thumb.webp",
+        "original": "/works/commerce-archive/13.jpg",
+        "width": 790,
+        "height": 1200
+      },
+      {
+        "name": "购物须知.jpg",
+        "src": "/works/commerce-archive/10-display.webp",
+        "thumb": "/works/commerce-archive/10-thumb.webp",
+        "original": "/works/commerce-archive/10.jpg",
+        "width": 790,
+        "height": 1200
+      }
+    ],
+    "covers": [
+      {
+        "name": "品牌故事及认证_01.jpg",
+        "src": "/works/commerce-archive/13-display.webp",
+        "thumb": "/works/commerce-archive/13-thumb.webp",
+        "original": "/works/commerce-archive/13.jpg",
+        "width": 790,
+        "height": 1200
+      },
+      {
+        "name": "购物须知.jpg",
+        "src": "/works/commerce-archive/10-display.webp",
+        "thumb": "/works/commerce-archive/10-thumb.webp",
+        "original": "/works/commerce-archive/10.jpg",
+        "width": 790,
+        "height": 1200
+      }
+    ]
+  },
+  {
+    "id": "detail-pages",
+    "title": "详情页设计",
+    "category": "产品详情 / 信息设计",
+    "description": "围绕产品卖点与信息层级，呈现母婴护理及家居产品的完整详情页设计。展开后按完整比例展示，点击可查看原图。",
+    "layout": "detail-pages",
+    "images": [
+      {
+        "name": "宝宝凝露2.jpg",
+        "src": "/works/commerce-archive/03-display.webp",
+        "thumb": "/works/commerce-archive/03-thumb.webp",
+        "original": "/works/commerce-archive/03.jpg",
+        "width": 790,
+        "height": 13116
+      },
+      {
+        "name": "宝宝盈润霜-3.jpg",
+        "src": "/works/commerce-archive/04-display.webp",
+        "thumb": "/works/commerce-archive/04-thumb.webp",
+        "original": "/works/commerce-archive/04.jpg",
+        "width": 781,
+        "height": 16000
+      },
+      {
+        "name": "宝宝盈润霜2026.jpg",
+        "src": "/works/commerce-archive/05-display.webp",
+        "thumb": "/works/commerce-archive/05-thumb.webp",
+        "original": "/works/commerce-archive/05.jpg",
+        "width": 781,
+        "height": 16000
+      },
+      {
+        "name": "电热蚊香液230605.jpg",
+        "src": "/works/commerce-archive/09-display.webp",
+        "thumb": "/works/commerce-archive/09-thumb.webp",
+        "original": "/works/commerce-archive/09.jpg",
+        "width": 562,
+        "height": 16000
+      },
+      {
+        "name": "羊脂膏1.jpg",
+        "src": "/works/commerce-archive/18-display.webp",
+        "thumb": "/works/commerce-archive/18-thumb.webp",
+        "original": "/works/commerce-archive/18.jpg",
+        "width": 697,
+        "height": 16000
+      }
+    ],
+    "covers": [
+      {
+        "name": "宝宝凝露2.jpg",
+        "src": "/works/commerce-archive/03-display.webp",
+        "thumb": "/works/commerce-archive/product-detail-cover-0.webp",
+        "original": "/works/commerce-archive/03.jpg",
+        "width": 700,
+        "height": 980
+      },
+      {
+        "name": "宝宝盈润霜-3.jpg",
+        "src": "/works/commerce-archive/04-display.webp",
+        "thumb": "/works/commerce-archive/product-detail-cover-1.webp",
+        "original": "/works/commerce-archive/04.jpg",
+        "width": 700,
+        "height": 980
+      },
+      {
+        "name": "电热蚊香液230605.jpg",
+        "src": "/works/commerce-archive/09-display.webp",
+        "thumb": "/works/commerce-archive/product-detail-cover-2.webp",
+        "original": "/works/commerce-archive/09.jpg",
+        "width": 700,
+        "height": 980
+      }
+    ]
+  },
+  {
+    "id": "campaign-pages",
+    "title": "活动页面",
+    "category": "电商活动 / 节日营销",
+    "description": "618 开门红与年货节活动页面，围绕节日氛围、促销信息与商品展示，组织完整的活动浏览体验。",
+    "layout": "detail-pages campaign-pages",
+    "images": [
+      {
+        "name": "开门红.jpg",
+        "src": "/works/commerce-archive/11-display.webp",
+        "thumb": "/works/commerce-archive/11-thumb.webp",
+        "original": "/works/commerce-archive/11.jpg",
+        "width": 1200,
+        "height": 15879
+      },
+      {
+        "name": "年货节页面.jpg",
+        "src": "/works/commerce-archive/12-display.webp",
+        "thumb": "/works/commerce-archive/12-thumb.webp",
+        "original": "/works/commerce-archive/12.jpg",
+        "width": 995,
+        "height": 16000
+      }
+    ],
+    "covers": [
+      {
+        "name": "开门红.jpg",
+        "src": "/works/commerce-archive/11-display.webp",
+        "thumb": "/works/commerce-archive/detail-cover-1.webp",
+        "original": "/works/commerce-archive/11.jpg",
+        "width": 700,
+        "height": 980
+      },
+      {
+        "name": "年货节页面.jpg",
+        "src": "/works/commerce-archive/12-display.webp",
+        "thumb": "/works/commerce-archive/detail-cover-2.webp",
+        "original": "/works/commerce-archive/12.jpg",
+        "width": 700,
+        "height": 980
+      }
+    ]
+  },
+  {
+    "id": "pet-design",
+    "title": "宠物类设计",
+    "category": "宠物品牌 / 社交海报 / 产品详情",
+    "description": "Yellow Nose 黄鼻子宠物品牌视觉：以明亮黄色、猫咪形象与产品场景，串联品牌表达、社交海报和化毛膏详情页。",
+    "layout": "archive",
+    "images": [
+      {
+        "name": "小红书-1.jpg",
+        "src": "/works/pet-design/01-display.webp",
+        "thumb": "/works/pet-design/01-thumb.webp",
+        "original": "/works/pet-design/01.jpg",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "name": "小红书-2.jpg",
+        "src": "/works/pet-design/02-display.webp",
+        "thumb": "/works/pet-design/02-thumb.webp",
+        "original": "/works/pet-design/02.jpg",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "name": "小红书画板 1.jpg",
+        "src": "/works/pet-design/03-display.webp",
+        "thumb": "/works/pet-design/03-thumb.webp",
+        "original": "/works/pet-design/03.jpg",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "name": "小红书-3.jpg",
+        "src": "/works/pet-design/04-display.webp",
+        "thumb": "/works/pet-design/04-thumb.webp",
+        "original": "/works/pet-design/04.jpg",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "name": "化毛膏-0125.jpg",
+        "src": "/works/pet-design/05-display.webp",
+        "thumb": "/works/pet-design/05-thumb.webp",
+        "original": "/works/pet-design/05.jpg",
+        "width": 790,
+        "height": 12764
+      }
+    ],
+    "covers": [
+      {
+        "name": "小红书-1.jpg",
+        "src": "/works/pet-design/01-display.webp",
+        "thumb": "/works/pet-design/01-thumb.webp",
+        "original": "/works/pet-design/01.jpg",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "name": "小红书画板 1.jpg",
+        "src": "/works/pet-design/03-display.webp",
+        "thumb": "/works/pet-design/03-thumb.webp",
+        "original": "/works/pet-design/03.jpg",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "name": "小红书-3.jpg",
+        "src": "/works/pet-design/04-display.webp",
+        "thumb": "/works/pet-design/04-thumb.webp",
+        "original": "/works/pet-design/04.jpg",
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  },
+  {
+    "id": "health-design",
+    "title": "保健品设计",
+    "category": "产品场景 / 卖点海报 / 信息可视化",
+    "description": "DAIRIALLI 益生菌系列视觉设计，以蓝色构建统一的品牌表达，涵盖产品场景、卖点海报与研究资料的信息编排。",
+    "layout": "archive",
+    "images": [
+      {
+        "name": "1c9ae7aacc18f7544584805261a746db9a84e1b179a5d6928d8c7f6b483404ca.png",
+        "src": "/works/health-design/01-display.webp",
+        "thumb": "/works/health-design/01-thumb.webp",
+        "original": "/works/health-design/01.png",
+        "width": 1200,
+        "height": 1607
+      },
+      {
+        "name": "6727a0d917d499c0ab14efddf284377043c399a20aea4abe8ab1033f18e4844d.png",
+        "src": "/works/health-design/02-display.webp",
+        "thumb": "/works/health-design/02-thumb.webp",
+        "original": "/works/health-design/02.png",
+        "width": 1200,
+        "height": 1607
+      },
+      {
+        "name": "830711f581a1d9de06c3c74467fd5ff9db2ce5fe882c83ca8c5c5583d6586bdc.png",
+        "src": "/works/health-design/03-display.webp",
+        "thumb": "/works/health-design/03-thumb.webp",
+        "original": "/works/health-design/03.png",
+        "width": 1200,
+        "height": 1607
+      },
+      {
+        "name": "e0ba41912455d571f10c675e654c859bd1066a5892889a206c601c6eaa40b683.jpg",
+        "src": "/works/health-design/04-display.webp",
+        "thumb": "/works/health-design/04-thumb.webp",
+        "original": "/works/health-design/04.jpg",
+        "width": 1200,
+        "height": 1607
+      },
+      {
+        "name": "P.jpg",
+        "src": "/works/health-design/05-display.webp",
+        "thumb": "/works/health-design/05-thumb.webp",
+        "original": "/works/health-design/05.jpg",
+        "width": 1200,
+        "height": 1607
+      },
+      {
+        "name": "合.jpg",
+        "src": "/works/health-design/06-display.webp",
+        "thumb": "/works/health-design/06-thumb.webp",
+        "original": "/works/health-design/06.jpg",
+        "width": 1200,
+        "height": 1607
+      },
+      {
+        "name": "活性画板 1 拷贝 2.jpg",
+        "src": "/works/health-design/07-display.webp",
+        "thumb": "/works/health-design/07-thumb.webp",
+        "original": "/works/health-design/07.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "活性画板 1 拷贝 3.jpg",
+        "src": "/works/health-design/08-display.webp",
+        "thumb": "/works/health-design/08-thumb.webp",
+        "original": "/works/health-design/08.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "活性画板 1 拷贝 5.jpg",
+        "src": "/works/health-design/09-display.webp",
+        "thumb": "/works/health-design/09-thumb.webp",
+        "original": "/works/health-design/09.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "活性画板 1 拷贝.jpg",
+        "src": "/works/health-design/10-display.webp",
+        "thumb": "/works/health-design/10-thumb.webp",
+        "original": "/works/health-design/10.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "活性画板 1.jpg",
+        "src": "/works/health-design/11-display.webp",
+        "thumb": "/works/health-design/11-thumb.webp",
+        "original": "/works/health-design/11.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "临床研究呼吸道.jpg",
+        "src": "/works/health-design/12-display.webp",
+        "thumb": "/works/health-design/12-thumb.webp",
+        "original": "/works/health-design/12.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "临床研究抗炎因子.jpg",
+        "src": "/works/health-design/13-display.webp",
+        "thumb": "/works/health-design/13-thumb.webp",
+        "original": "/works/health-design/13.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "临床研究免疫力.jpg",
+        "src": "/works/health-design/14-display.webp",
+        "thumb": "/works/health-design/14-thumb.webp",
+        "original": "/works/health-design/14.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "临床研究皮炎.jpg",
+        "src": "/works/health-design/15-display.webp",
+        "thumb": "/works/health-design/15-thumb.webp",
+        "original": "/works/health-design/15.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "临床研究湿疹风险.jpg",
+        "src": "/works/health-design/16-display.webp",
+        "thumb": "/works/health-design/16-thumb.webp",
+        "original": "/works/health-design/16.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版4大益生元.jpg",
+        "src": "/works/health-design/17-display.webp",
+        "thumb": "/works/health-design/17-thumb.webp",
+        "original": "/works/health-design/17.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版4大专利菌.jpg",
+        "src": "/works/health-design/18-display.webp",
+        "thumb": "/works/health-design/18-thumb.webp",
+        "original": "/works/health-design/18.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版518CFU .jpg",
+        "src": "/works/health-design/19-display.webp",
+        "thumb": "/works/health-design/19-thumb.webp",
+        "original": "/works/health-design/19.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版518分区.jpg",
+        "src": "/works/health-design/20-display.webp",
+        "thumb": "/works/health-design/20-thumb.webp",
+        "original": "/works/health-design/20.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版518科研.jpg",
+        "src": "/works/health-design/21-display.webp",
+        "thumb": "/works/health-design/21-thumb.webp",
+        "original": "/works/health-design/21.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-蓝背景版5184大专利菌.jpg",
+        "src": "/works/health-design/22-display.webp",
+        "thumb": "/works/health-design/22-thumb.webp",
+        "original": "/works/health-design/22.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-同步字体颜色版卖点 拷贝 2.jpg",
+        "src": "/works/health-design/23-display.webp",
+        "thumb": "/works/health-design/23-thumb.webp",
+        "original": "/works/health-design/23.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ],
+    "covers": [
+      {
+        "name": "1c9ae7aacc18f7544584805261a746db9a84e1b179a5d6928d8c7f6b483404ca.png",
+        "src": "/works/health-design/01-display.webp",
+        "thumb": "/works/health-design/01-thumb.webp",
+        "original": "/works/health-design/01.png",
+        "width": 1200,
+        "height": 1607
+      },
+      {
+        "name": "活性画板 1.jpg",
+        "src": "/works/health-design/11-display.webp",
+        "thumb": "/works/health-design/11-thumb.webp",
+        "original": "/works/health-design/11.jpg",
+        "width": 1125,
+        "height": 2436
+      },
+      {
+        "name": "益生菌卖点-同步字体颜色版卖点 拷贝 2.jpg",
+        "src": "/works/health-design/23-display.webp",
+        "thumb": "/works/health-design/23-thumb.webp",
+        "original": "/works/health-design/23.jpg",
+        "width": 1125,
+        "height": 2436
+      }
+    ]
+  }
+]
